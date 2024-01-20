@@ -13,7 +13,6 @@ This repository contains a total of 17 text files of British and American modern
 | POS_tags         | part of speech of tokens | string       |
 | Lemmatized       | lemmas of tokens        | string       |
 | Text             | original (untokenized) text of each poem      | string       |
-| Proper_Nouns    |Indicates whether it is a proper noun (Yes/No) |string         |
 
 
 # Purpose of the corpus
